@@ -1,0 +1,365 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.banner-menu{
+   background: url(../img/banner.jpg)no-repeat;
+   background-size: cover;
+}
+ .cstm-logo{
+   width: 250px;
+ }
+
+ a.nav-link {
+     color: #fff;
+    font-size: 20px;
+    margin: 0px 23px;
+   transition: 0.3s ease-in-out;
+}   
+a.nav-link:hover{
+    color: green;
+   border-bottom: 2px solid #fff;
+     
+}
+li.line {
+    margin-top: 12px;
+    color: #fff;
+}
+ 
+.banner-min h2{
+   color: #fff;
+    background: #222220;
+    width: fit-content;
+    padding: 10px 25px;
+    font-size: 42px;
+    margin-top: 130px;
+}
+.banner-min p{
+   color: #C7CACA;
+    margin-top: 18px;
+    font-size: 13px;
+}
+
+.banner-min span{
+   border: 1px solid #fff;
+    display: block;
+    width: 24px;
+    margin-top: 40px;
+}
+.banner-btn{
+   background: transparent;
+    border: 1px solid #fff;
+    padding: 12px 80px;
+    margin-top: 50px;
+    color: #fff;
+    font-size: 22px;
+    margin-bottom: 285px;
+    transition: 0.4s ease-in-out;
+}
+.banner-btn:hover{
+   background: #4A8AF4;
+}
+/* welcome section*/
+
+.welcome{
+   background: #F6F6F6;
+}
+
+.welcome-text h1{
+   margin-top: 120px;
+    font-size: 45px;
+    padding: 10px 0px;
+}
+.welcome-text span{
+   border: 1px solid #000;
+    display: block;
+    width: 25px;
+    margin-top: 40px;
+}
+.welcome-text p{
+   color: #767773;
+    margin-top: 40px;
+    font-size: 14px;
+    padding: 5px 0px;
+    text-align: justify;
+}
+.welcome-img{
+   width: 757px;
+    margin-left: -33px;
+    position: relative;
+    z-index: 9;
+    margin-bottom: -591px;
+}
+
+/*car view section*/
+
+.car-section{
+   background: #28282E;
+}
+.car h2{
+   color: #fff;
+    margin-top: 75px;
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    padding: 10px 0px;
+}
+.car span{
+ border: 1px solid #fff;
+    display: block;
+    width: 25px;
+    margin: 20px 0px;  
+}
+.car p{
+   color: #88888A;
+    margin-top: 50px;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.car-btn{
+   margin: 71px 0px;
+    background: transparent;
+    border: 2px solid #fff;
+    padding: 8px 55px;
+    color: #fff;
+    font-size: 25px;
+    transition: 0.4s ease-in-out;
+}
+.car-btn:hover{
+   background: #DD5145;
+}
+.car-img{
+   width: 635px;
+    margin-left: 25px;
+    margin-top: 233px;
+}
+
+/* footer section*/
+ .footer-menu{
+   background: #F23E2C;
+ }
+.footer-title h5{
+   padding: 30px 0px;
+    margin-left: 350px;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+}
+/*about us section*/
+ 
+.span-logo{
+   border: 3px solid grey;
+    display: block;
+}
+.menu-logo{
+
+}
+.menu-bar{
+   color: #207692 !important;
+}
+.line-bar{
+   color: #358BAE !important;
+    font-size: 18px !important;
+    margin-top: 10px !important;
+}
+ /* About Section*/
+
+.about-us{
+   padding-top: 40px
+}
+ 
+.about-us-text h2{
+   font-size: 45px;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+.about-us-text p{
+    
+    font-size: 14px;
+    color: #B2B2B2;
+    padding: 25px 0px;
+    text-align: justify;
+}
+
+.img-bar{
+   width: 601px;
+}
+.about-img-text p{
+font-size: 14px;
+    color: #AAAAAA;
+    padding: 30px 0px;
+    text-align: justify;
+}
+
+/* contact section*/
+
+.contact-banner{
+   background-color: #F14838;
+}
+.contact-item h3{
+   margin-top: 45px;
+    color: #fff;
+    font-size: 35px;
+    padding: 10px 0px;
+}
+.contact-item img{
+       width: 630px;
+}
+.contact-item p{
+   margin: 30px 0px;
+    color: #fff;
+    text-align: justify;
+}
+
+ .contact-squire img{
+   width: 306px;
+    margin: 35px;
+ }
+.contact-form-one{
+   padding: 45px 0px;
+}
+.contact-form-two{
+   padding: 45px 0px;
+}
+
+.contact-form-one p{
+   color: #fff;
+    margin: 13px 0px;
+    font-size: 20px;
+}
+
+.form-control{
+   height: 65px;
+   border: none;
+   background: #FF6258;
+}
+
+.contact-form-two p{
+   color: #fff;
+    margin: 13px 0px;
+     font-size: 20px;
+}
+  
+ .contact-btn{
+   margin-top: 113px;
+    width: 124px;
+    height: 51px;
+    color: #fff;
+    background: transparent;
+    font-family: 'Roboto', sans-serif;
+    font-size: 27px;
+    margin-left: 45px;
+    border-radius: 16px;
+    border: none;
+    transition: 0.20s ease-in out;
+ }
+ .contact-btn:hover{
+   background: #fff;
+   color: #FF6258;
+ }
+
+/* Media query*/
+
+/* Mobile Device*/
+
+
+@media (min-width: 320px) and (max-width: 576px){
+
+   .welcome-text h1{
+   margin-top: 120px;
+    font-size: 25px;
+    padding: 10px 0px; 
+}
+
+.welcome-img{
+    width: 446px;
+    margin-left: 6px;
+    position: relative;
+    z-index: 9;
+    margin-bottom: -48px;
+   }
+
+.car-img{
+    width: 407px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.footer-title h5{
+   padding: 30px 0px;
+   margin-left: 55px;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+}
+
+ .fa.fa-bars{
+   color: white;
+}
+
+.fa.fa-bars.icons-2{
+   color: black;
+}
+.fa.fa-bars.icons-3{
+   color: black;
+}
+
+.menu-logo {
+    width: 250px;
+}
+
+.img-bar{
+    width: 400px;
+}
+
+.contact-item img {
+    width: 425px;
+}
+
+.contact-btn {
+    margin-top: -16px;
+    width: 124px;
+    height: 51px;
+    color: #fff;
+    background: transparent;
+    font-family: 'Roboto', sans-serif;
+    font-size: 27px;
+    margin-left: 172px;
+    border-radius: 16px;
+    border: none;
+    transition: 0.20s ease-in out;
+}
+
+.contact-btn:hover {
+    background: #fff;
+    color: #FF6258;
+}
+
+}
+/*small & device*/
+
+@media (min-width: 576.01px) and (max-width: 768px){
+
+
+.fa.fa-bars{
+   color: black;
+}
+
+}
+
+/* Notebook/leptop device*/
+
+@media (min-width: 786.01px) and (max-width: 992px){
+
+}
+/* Medium Device*/
+
+@media (min-width: 992.01px) and (max-width: 1200px){
+
+}
+
+/* large Device */
+
+@media (min-width: 1200.01px){
+}
